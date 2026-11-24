@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="Yazeed Kamel — AI Engineer | Applied AI &amp; Product Engineering. Building production AI systems." width="100%" />
+  <img src="assets/applied-ai-profile.svg" alt="Yazeed Kamel — AI Engineer | Applied AI &amp; Product Engineering. Building production AI systems." width="100%" />
 </p>
 
 <p align="center">
