@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="Yazeed Kamel — Data &amp; AI Engineer. Building reliable AI systems and developer infrastructure." width="100%" />
+  <img src="assets/hero.svg" alt="Yazeed Kamel — AI Engineer | Applied AI &amp; Product Engineering. Building production AI systems." width="100%" />
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/yazeed-kamel">LinkedIn</a> ·
   <a href="https://github.com/Yazeedx0?tab=repositories">Explore my work</a> ·
   <a href="https://github.com/Yazeedx0/qa-superteam">QA Superteam</a> ·
   <a href="https://github.com/Yazeedx0/AtlasRAG">AtlasRAG</a>
@@ -10,13 +11,14 @@
 
 ## About me
 
-I'm a Data & AI Engineer interested in the intersection of distributed systems, data infrastructure, and applied AI. I build AI agents and retrieval systems, with an emphasis on reliability, security, observability, and engineering discipline.
+I'm an AI Engineer focused on building and operating production AI products end-to-end. I combine applied machine learning, backend and distributed systems, and product engineering to turn AI capabilities into reliable, scalable software.
 
-```text
-Focus       AI agents · RAG · data infrastructure
-Principles  Evidence over assumptions · explicit contracts · reliable systems
-Building    Open-source tools for AI-native engineering
-```
+## What I build
+
+- **Agentic systems & RAG** — multi-tool workflows, hybrid retrieval, grounded responses, and evaluation.
+- **Real-time AI** — voice interactions, WebRTC, streaming, and session orchestration.
+- **Applied machine learning** — recommendation systems, model fine-tuning, training, and evaluation.
+- **Production AI platforms** — distributed processing, observability, reliability, and product experiences.
 
 ## Featured projects
 
@@ -33,13 +35,17 @@ npx skills add Yazeedx0/qa-superteam
 
 ## Engineering toolkit
 
-**AI & data**
+**AI & machine learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-182536?style=flat-square&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-182536?style=flat-square) ![RAGAS](https://img.shields.io/badge/RAGAS-182536?style=flat-square) ![LiteLLM](https://img.shields.io/badge/LiteLLM-182536?style=flat-square)
+
+**Agents & retrieval**
 
 ![Python](https://img.shields.io/badge/Python-182536?style=flat-square&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-182536?style=flat-square&logo=langgraph&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-182536?style=flat-square&logo=langchain&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-182536?style=flat-square&logo=postgresql&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-182536?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-182536?style=flat-square&logo=redis&logoColor=white)
 
-**Backend & infrastructure**
+**Backend, real-time systems & infrastructure**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-182536?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-182536?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-182536?style=flat-square&logo=linux&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-182536?style=flat-square&logo=opentelemetry&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-182536?style=flat-square&logo=grafana&logoColor=white) ![Git](https://img.shields.io/badge/Git-182536?style=flat-square&logo=git&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-182536?style=flat-square&logo=webrtc&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-182536?style=flat-square&logo=celery&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-182536?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-182536?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-182536?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-182536?style=flat-square&logo=linux&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-182536?style=flat-square&logo=opentelemetry&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-182536?style=flat-square&logo=grafana&logoColor=white) ![Git](https://img.shields.io/badge/Git-182536?style=flat-square&logo=git&logoColor=white)
 
 ## GitHub activity
 
