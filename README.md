@@ -15,10 +15,10 @@ I'm an AI Engineer focused on building and operating production AI products end-
 
 ## What I build
 
-- **Agentic systems & RAG** — multi-tool workflows, hybrid retrieval, grounded responses, and evaluation.
-- **Real-time AI** — voice interactions, WebRTC, streaming, and session orchestration.
-- **Applied machine learning** — recommendation systems, model fine-tuning, training, and evaluation.
-- **Production AI platforms** — distributed processing, observability, reliability, and product experiences.
+- **Agentic systems & RAG** - multi-tool workflows, hybrid retrieval, grounded responses, and evaluation.
+- **Real-time AI** - voice interactions, WebRTC, streaming, and session orchestration.
+- **Applied machine learning** - recommendation systems, model fine-tuning, training, and evaluation.
+- **Production AI platforms** - distributed processing, observability, reliability, and product experiences.
 
 ## Featured projects
 
